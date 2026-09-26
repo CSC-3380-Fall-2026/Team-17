@@ -12,25 +12,32 @@ Robot Arena is a combat game where the players control a customizable robot and 
 Players can upgrade their robot between rounds by improving health, movement speed, weapon damage, shields, and other abilities. 
 Different enemies will have unique behaviors and abilities, requiring players to change their strategy as they progress.
 ## Platforms Tested on
+(Not Tested Yet. Development has not started.)
 - MacOS
 - Android
 - iOS
 - Linux
 - Windows
 # Important Links
-Kanban Board: [link]\
-Designs: [link]\
-Styles Guide(s): [link]
+Kanban Board: To be added... [link]\
+Designs: To be added... [link]\
+Styles Guide(s): To be Added... [link]
 
 # How to Run Dev and Test Environment
 
 ## Dependencies
+(Development has not started yet.)
 - List all dependencies here
 - Don't forget to include versions
 ### Downloading Dependencies
+(Setup instructions will be added once the development environment and required dependencies are finalized.)
+
 Describe where to download the dependencies here. Some will likely require a web download. Provide links here. For IDE extensions, make sure your project works with the free version of them, and detail which IDE(s) these are available in. 
 
 ## Commands
+(Development has not started. Commands for running and testing Robot Arena will be added once the initial project structure has been created.)
+
+
 Describe how the commands and process to launch the project on the main branch in such a way that anyone working on the project knows how to check the affects of any code they add.
 
 ```sh
