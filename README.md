@@ -1,9 +1,9 @@
 # Robot Arean : Team 17
 # Members
-Project Manager: Kay Miralda ([GitHub Name])\
-Communications Lead: Justin McCright ([GitHub Name])\
+Project Manager: Kay Miralda (Xkai90)\
+Communications Lead: Justin McCright (justinjelani)\
 Git Master: Malcolm Jones (MalcolmJ-Cyber)\
-Design Lead: Gavyn Diaz ([GitHub Name])\
+Design Lead: Gavyn Diaz (gdiaz8LSU)\
 Quality Assurance Tester: N/a ([GitHub Name])
 
 # About Our Software
