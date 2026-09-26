@@ -1,14 +1,16 @@
-# [Name of the Project] : [Team Number]
+# Robot Arean : Team 17
 # Members
-Project Manager: [Name] ([GitHub Name])\
-Communications Lead: [Name] ([GitHub Name])\
-Git Master: [Name] ([GitHub Name])\
-Design Lead: [Name] ([GitHub Name])\
-Quality Assurance Tester: [Name] ([GitHub Name])
+Project Manager: Kay Miralda ([GitHub Name])\
+Communications Lead: Justin McCright ([GitHub Name])\
+Git Master: Malcolm Jones (MalcolmJ-Cyber)\
+Design Lead: Gavyn Diaz ([GitHub Name])\
+Quality Assurance Tester: N/a ([GitHub Name])
 
 # About Our Software
 
-Describe a little about what the project is about here.
+Robot Arena is a combat game where the players control a customizable robot and battle different enemy robots in an arena. 
+Players can upgrade their robot between rounds by improving health, movement speed, weapon damage, shields, and other abilities. 
+Different enemies will have unique behaviors and abilities, requiring players to change their strategy as they progress.
 ## Platforms Tested on
 - MacOS
 - Android
