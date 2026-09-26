@@ -4,7 +4,7 @@ Project Manager: Kay Miralda (Xkai90)\
 Communications Lead: Justin McCright (justinjelani)\
 Git Master: Malcolm Jones (MalcolmJ-Cyber)\
 Design Lead: Gavyn Diaz (gdiaz8LSU)\
-Quality Assurance Tester: N/a ([GitHub Name])
+Quality Assurance Tester: N/A (N/A)
 
 # About Our Software
 
