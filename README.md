@@ -1,4 +1,4 @@
-# Robot Arean : Team 17
+# Robot Arena : Team 17
 # Members
 Project Manager: Kay Miralda (Xkai90)\
 Communications Lead: Justin McCright (justinjelani)\
