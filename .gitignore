@@ -1,0 +1,9 @@
+.godot/
+.DS_Store
+
+# Build output
+.sconsign*.dblite
+*.os
+*.o
+*.obj
+project/bin/*/
