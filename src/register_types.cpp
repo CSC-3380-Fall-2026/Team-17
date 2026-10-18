@@ -1,5 +1,6 @@
 #include <godot_cpp/core/class_db.hpp>
 #include <godot_cpp/godot.hpp>
+#include "controls.h"
 
 using namespace godot;
 
@@ -8,6 +9,7 @@ void initializeTypes(ModuleInitializationLevel level) {
         return;
     }
     // Register each C++ class here, e.g. GDREGISTER_CLASS(Player);
+    GDREGISTER_CLASS(Controls);
 }
 
 void uninitializeTypes(ModuleInitializationLevel level) {

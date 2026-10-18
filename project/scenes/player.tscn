@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://25kini233t8"]
+
+[sub_resource type="Gradient" id="Gradient_tfvyv"]
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_kfhv0"]
+gradient = SubResource("Gradient_tfvyv")
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_kudqp"]
+size = Vector2(64, 64)
+
+[node name="Player" type="Controls" unique_id=1615061035]
+position = Vector2(-71.10409, -113.10408)
+velocity = Vector2(0, 300)
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=997749331]
+texture = SubResource("GradientTexture2D_kfhv0")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1550161480]
+shape = SubResource("RectangleShape2D_kudqp")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=715673700]
+enabled = false
