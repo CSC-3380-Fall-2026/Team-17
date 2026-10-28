@@ -11,4 +11,5 @@ config_version=5
 [application]
 
 config/name="Robot Arena"
+run/main_scene="uid://25kini233t8"
 config/features=PackedStringArray("4.7", "Forward Plus")

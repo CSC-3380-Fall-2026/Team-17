@@ -7,6 +7,8 @@ Controls::Controls(){}
 Controls::~Controls(){}
 
 void Controls::_bind_methods(){}
+
+// Player input, and physics behind how they move
 void Controls::_physics_process(double delta){
     Input *input = Input::get_singleton();
 

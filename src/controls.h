@@ -8,7 +8,7 @@ namespace godot{
         GDCLASS(Controls, CharacterBody2D)
 
 private:
-    double speed = 300.0;
+    double speed = 1000.0;
 
 public:
     static void _bind_methods();

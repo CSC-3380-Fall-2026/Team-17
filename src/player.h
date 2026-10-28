@@ -20,6 +20,7 @@ void levelup(){level++;}
 
 // Other methods
 int addCoins(int amount){return coins += amount;}
+bool alive(bool isAlive){return isAlive;}
 
 // Json
 void saveToFile(const std::string& filename) const;

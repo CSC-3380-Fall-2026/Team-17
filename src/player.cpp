@@ -35,10 +35,6 @@ struct Saves{
 
 // Save data to file
 void Player::saveToFile(const string& filename) const{
-}
-
-// Load from existing save thats selected
-void Player::loadFromFile(const string& filename){
     json save;
 
     save["maxHealth"];
@@ -47,4 +43,8 @@ void Player::loadFromFile(const string& filename){
     save["level"];
     save["damage"];
     save["speed"];
+}
+
+// Load from existing save thats selected
+void Player::loadFromFile(const string& filename){
     }
